@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/user/Documents/GitHub/Game-Engine-102/GameEngine102/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/user/Documents/GitHub/Game-Engine-102/GameEngine102/Content/CardInfo/CardComponent.uasset",
+				"C:/Users/user/Documents/GitHub/Game-Engine-102/GameEngine102/Content/CardInfo/HUD/DragCards_UI.uasset",
+				"C:/Users/user/Documents/GitHub/Game-Engine-102/GameEngine102/Content/CardInfo/HUD/MainHud.uasset",
+				"C:/Users/user/Documents/GitHub/Game-Engine-102/GameEngine102/Content/CardInfo/MyDragCard.uasset",
+				"C:/Users/user/Documents/GitHub/Game-Engine-102/GameEngine102/Content/CardInfo/HUD/WB_CardUI.uasset",
 				"F:/class/102/Game-Engine-102/GameEngine102/Content/UI/WB_CardUI.uasset",
 				"F:/class/102/Game-Engine-102/GameEngine102/Content/CardInfo/RUD/WB_CardUI.uasset",
 				"F:/class/102/Game-Engine-102/GameEngine102/Content/CardInfo/RUD/MainHud.uasset",
